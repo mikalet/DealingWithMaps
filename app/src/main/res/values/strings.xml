@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Seminario Mapas</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_user_name">User Name</string>
+    <string name="hint_password">Password</string>
+    <string name="title_geolocation">Geolocation</string>
+    <string name="title_maps">Maps</string>
+    <string name="geolocation_on">Start taking current location</string>
+    <string name="geolocation_off">Stop geolocating</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="address">Address</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="button_marker">Set marker</string>
+    <string name="map_type">Map type</string>
+    <string name="dialog_title">Select map type</string>
+    <string name="map_none">Map None</string>
+    <string name="map_normal">Map Normal</string>
+    <string name="map_hybrid">Map Hybrid</string>
+    <string name="map_satellite">Map Satellite</string>
+    <string name="map_terrain">Map Terrain</string>
+    <string name="app_name">Seminario Mapas</string>
+
+</resources>

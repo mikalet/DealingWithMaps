@@ -1,0 +1,7 @@
+CameraPosition pos = new CameraPosition.Builder()
+                            .target(bcn)
+                            .zoom(12)
+                            .build();
+mMap.animateCamera(CameraUpdateFactory.newCameraPosition(pos), 3000, null);
+
+moveCamera(CameraUpdateFactory.newLatLng(latLng))
